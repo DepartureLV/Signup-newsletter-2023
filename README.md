@@ -1,4 +1,5 @@
 # Signup-newsletter-2023
+(Full Package On Release tab, If you want the most updated npm you can download the above code and install npm by yourself.)
 Since Mailchimp's API has changed a lot, This is a 2023 version of the newsletter signup webpage using Node JS, Express, and Mailchimp API following Dr.Angelu Yu's lesson on Udemy which is already outdated.
 
 I also code this to be used easier by combining any required parameter and value to the very first section of the JS which everyone can read the description and follow along to launch Mailchimp's API much faster and with less effort!
