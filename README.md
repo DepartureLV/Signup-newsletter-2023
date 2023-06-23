@@ -1,5 +1,5 @@
 # Signup-newsletter-2023
-Since Mailchimp's API has changed a lot, This is a 2023 version of the newsletter signup webpage using node, express, and Mailchimp API following Dr.Angelu Yu's lesson on Udemy which is already outdated.
+Since Mailchimp's API has changed a lot, This is a 2023 version of the newsletter signup webpage using Node JS, Express, and Mailchimp API following Dr.Angelu Yu's lesson on Udemy which is already outdated.
 
 I also code this to be used easier by combining any required parameter and value to the very first section of the JS which everyone can read the description and follow along to launch Mailchimp's API much faster and with less effort!
 ![code](https://github.com/DepartureLV/Signup-newsletter-2023/assets/128316768/6c15c079-93a6-43c5-912f-f1ec2a1b5291)
